@@ -1,0 +1,12 @@
+﻿  FightGameServer.cpp
+C:\Users\gh563\Desktop\프로카데미 수업\TCPFighter_\FightGameServer\FightGameServer\FightGameServer.cpp(96,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gh563\Desktop\프로카데미 수업\TCPFighter_\FightGameServer\FightGameServer\FightGameServer.cpp(282,10): warning C4477: 'wprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'size_t'입니다.
+      C:\Users\gh563\Desktop\프로카데미 수업\TCPFighter_\FightGameServer\FightGameServer\FightGameServer.cpp(282,10):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+  코드를 생성하고 있습니다.
+  5 of 302 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  FightGameServer.vcxproj -> C:\Users\gh563\Desktop\프로카데미 수업\TCPFighter_\FightGameServer\x64\Release\FightGameServer.exe
